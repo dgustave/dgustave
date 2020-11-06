@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <br />
   <p align="center">
   <a href="https://github.com/dgustave/dgustave">
-    <img src="images/dhead.png" alt="Logo" width="120" height="120">
+    <img src="images/box.png" alt="Logo" width="200" height="200">
     <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
   </a>
 
@@ -87,17 +87,22 @@ Here are some ideas to get you started:
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [About Me](#about-me)
-  * [Developing](#developing -with)
+  * [Developing With](#developing-with)
 <!-- * [Articles](#articles) -->
 
 
 
 <!-- [![Product Name Screen Shot][project-screenshot]](https://example.com) -->
 ![work-shield](icons/work.png) I’m currently working on a investors dashboard. 
+
 ![learn-shield](icons/learn.png) I’m currently learning about Machine Learning.
+
 ![lookingto-shield](icons/lookto.png) I’m looking to collaborate on Machine Learning projects and Dashboards. 
+
 ![lookingfor-shield](icons/lookfor.png) I’m looking for help with sentiment analysis models. 
+
 ![ask-shield](icons/ask.png) Ask me about ideas I have for future projects. 
+
 [![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!
 * Leave a detailed message and I will confirm. .

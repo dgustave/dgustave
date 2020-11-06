@@ -107,10 +107,6 @@ Here are some ideas to get you started:
 
 ![ask-shield](icons/ask.png) Ask me about ideas I have for future projects. 
 
-[![Zoom][zoom-shield]][zoom-url] 
-* Schedule a meeting with me today!
-* Leave a detailed message and I will confirm. .
-
 
 ### Developing With
 
@@ -136,6 +132,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 Donley Gustave - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@gmail.com
+
+[![Zoom][zoom-shield]][zoom-url] 
+* Schedule a meeting with me today!
+* Leave a detailed message and I will confirm. .
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements

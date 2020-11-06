@@ -65,10 +65,10 @@ Here are some ideas to get you started:
    
 
   <p align="center">
-    <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Donley Gustave</strong>? You can edit and add more content  for your personal or corporate projects.</p>
-    <br />
-    <p> I am a mathematician at my core, who enjoys utilizing the newest technologies to solve solutions. I believe, by automating certain tasks, I can focus on solving any problem, through innovation, sound analytical methodologies, grokking algorithms, and intuitive machine learning principles. 
+    <p>  I believe, by automating certain tasks, so that I can focus on solving any problem, through innovation, sound analytical methodologies, grokking algorithms, and intuitive machine learning principles. I just love having more time to work on something creative. I  personalize dashboards with Tableau and JavaScript to curate a story for you. In my free time I spend time reading and dabble in PSO2. 
     </p>
+    <br />
+      <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Donley Gustave</strong>? You can edit and add more content  for your personal or corporate projects. Use this link here <strong>https://github.com/dgustave/README-Template/</strong></p>
     <br />
   
   <!-- <p align="center">
@@ -118,10 +118,10 @@ Here are some ideas to get you started:
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
         
-<!-- 
+
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
+<!-- - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*

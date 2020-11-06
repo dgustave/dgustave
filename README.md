@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dgustave/dgustave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -82,11 +80,6 @@ Here are some ideas to get you started:
 [facebook-shield]: icons/facebook.png
 [zoom-url]: https://calendly.com/donleyc-gustave/meeting
 [zoom-shield]:  icons/zoom.png
-[work-shield]:  icons/work.png
-[learn-shield]:  icons/learn.png
-[lookingto-shield]:  icons/lookto.png
-[lookingfor-shield]:  icons/lookfor.png
-[ask-shield]:  icons/ask.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: images/screenshot.png
@@ -94,18 +87,17 @@ Here are some ideas to get you started:
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [About Me](#about-me)
-  * [Developing With](#developing -with)
+  * [Developing](#developing -with)
 <!-- * [Articles](#articles) -->
 
 
 
 <!-- [![Product Name Screen Shot][project-screenshot]](https://example.com) -->
-
-[work-shield] I’m currently working on a investors dashboard. 
-[learn-shield] I’m currently learning about Machine Learning.
-[lookingto-shield] I’m looking to collaborate on Machine Learning projects and Dashboards. 
-[lookingfor-shield] I’m looking for help with sentiment analysis models. 
-[ask-shield] Ask me about ideas I have for future projects. 
+[work-shield](icons/work.png) I’m currently working on a investors dashboard. 
+[learn-shield](icons/learn.png) I’m currently learning about Machine Learning.
+[lookingto-shield](icons/lookto.png) I’m looking to collaborate on Machine Learning projects and Dashboards. 
+[lookingfor-shield](icons/lookfor.png) I’m looking for help with sentiment analysis models. 
+[ask-shield](icons/ask.png) Ask me about ideas I have for future projects. 
 [![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!
 * Leave a detailed message and I will confirm. .

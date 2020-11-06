@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 [![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-![Visitor Count](https://profile-counter.glitch.me/dgustave/count.svg)
 
+<!-- ABOUT ME -->
+## About Me
 
-  <!-- PROJECT LOGO -->
   <br />
   <p align="center">
   <a href="https://github.com/dgustave/dgustave">
-    <img src="images/marvinm.png" alt="Logo" width="80" height="80">
+    <img src="images/marvinm.png" alt="Logo" width="120" height="120">
   </a>
 
   <h4 align="center">Hey! I'm Donley Gustave a</h4>
@@ -94,13 +94,11 @@ Here are some ideas to get you started:
 ## Table of Contents
 * [About Me](#about-me)
   * [Developing With](#developing -with)
-* [Articles](#articles)
+<!-- * [Articles](#articles) -->
 
 
-<!-- ABOUT ME -->
-## About Me
 
-[![Product Name Screen Shot][project-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][project-screenshot]](https://example.com) -->
 
 - [![Working][work-shield]] I’m currently working on a investors dashboard. 
 - [![Learning][learn-shield]] I’m currently learning about Machine Learning.
@@ -117,14 +115,14 @@ Here are some ideas to get you started:
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
         
-
+<!-- 
 ## Articles
 
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
-- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
+- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi* -->
 
 
 <!-- LICENSE -->
@@ -143,3 +141,5 @@ Donley Gustave - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@g
 <p class="copyright">Copyright &copy; 2020 Gustave LLC
 <br>Designed by <a rel="nofollow" href="https://www.facebook.com/dgustave">Donley Gustave</a></p>
 </footer>
+
+![Visitor Count](https://profile-counter.glitch.me/dgustave/count.svg)

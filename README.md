@@ -40,6 +40,15 @@ Here are some ideas to get you started:
 [![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+* [About Me](#about-me)
+  * [Developing With](#developing-with)
+* [Articles](#articles)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
 
 <!-- ABOUT ME -->
 ## About Me
@@ -84,11 +93,6 @@ Here are some ideas to get you started:
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: images/screenshot.png
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-* [About Me](#about-me)
-  * [Developing With](#developing-with)
-<!-- * [Articles](#articles) -->
 
 
 
@@ -131,8 +135,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
 Donley Gustave - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@gmail.com
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 
 
 <!-- Footer -->

@@ -49,7 +49,8 @@ Here are some ideas to get you started:
   <br />
   <p align="center">
   <a href="https://github.com/dgustave/dgustave">
-    <img src="images/marvinm.png" alt="Logo" width="120" height="120">
+    <img src="images/dhead.png" alt="Logo" width="120" height="120">
+    <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
   </a>
 
   <h4 align="center">Hey! I'm Donley Gustave a</h4>
@@ -63,11 +64,11 @@ Here are some ideas to get you started:
     </p>
     <br />
   
-  <p align="center">
+  <!-- <p align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="icons/live-demo.png" alt="Logo" width="80" height="80">
   </a>
-   <h4 align="center">Portfolio</h4>
+   <h4 align="center">Portfolio</h4> -->
 
 <!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -100,12 +101,13 @@ Here are some ideas to get you started:
 
 <!-- [![Product Name Screen Shot][project-screenshot]](https://example.com) -->
 
-- [![Working][work-shield]] I’m currently working on a investors dashboard. 
-- [![Learning][learn-shield]] I’m currently learning about Machine Learning.
-- [![Colaborate][lookingto-shield]] I’m looking to collaborate on Machine Learning projects and Dashboards. 
-- [![Help][lookingfor-shield]] I’m looking for help with sentiment analysis models. 
-- [![Info][ask-shield]] Ask me about ideas I have for future projects. 
-- [![Zoom][zoom-shield]][zoom-url] Schedule a meeting with me today!
+[work-shield] I’m currently working on a investors dashboard. 
+[learn-shield] I’m currently learning about Machine Learning.
+[lookingto-shield] I’m looking to collaborate on Machine Learning projects and Dashboards. 
+[lookingfor-shield] I’m looking for help with sentiment analysis models. 
+[ask-shield] Ask me about ideas I have for future projects. 
+[![Zoom][zoom-shield]][zoom-url] 
+* Schedule a meeting with me today!
 * Leave a detailed message and I will confirm. .
 
 

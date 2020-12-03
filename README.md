@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   </a>
 
   <h4 align="center">Hey! I'm Donley Gustave a</h4>
-   <h4 align="center"><strong>Business Analyst</strong> and Aspiring Software Engineer</h4>
+   <h4 align="center"><strong>Business Analyst</strong> and Machine Learning Engineer</h4>
    
 
   <p align="center">

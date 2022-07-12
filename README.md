@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 ## About Me
 
   <br />
-  <p align="center">
+  <!-- <p align="center">
   <a href="https://github.com/dgustave/dgustave">
     <img src="images/box.png" alt="Logo" width="200" height="200">
-    <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
-  </a>
+    <img src="images/marvinm.png" alt="Logo" width="120" height="120">
+  </a> -->
 
   <h4 align="center">Hey! I'm Donley Gustave a and I am currently working as</h4>
    <h4 align="center"><strong>Application Solutions Engineer</strong></h4>
@@ -68,12 +68,12 @@ Here are some ideas to get you started:
     <p>  I believe, by automating certain tasks, so that I can focus on solving any problem, through innovation, sound analytical methodologies, grokking algorithms, and intuitive machine learning principles. I just love having more time to work on something creative. I  personalize dashboards with Tableau and JavaScript to curate a story for you. 
     </p>
     <br />
-      <p>In my current role I wear many hats. As a <strong>Application Solutions Engineer</strong> with then work with various departments from development, datscience, network engineers, support and operations to ensure a plan is in motion to improve the customer's experience.The main goal of my current position is to make the department teams job easier by providing these services;</p>
+      <p>In my current role I wear many hats. As a <strong>Application Solutions Engineer</strong> with then work with various departments from development, data science, network engineers, support, and operations to ensure a plan is in motion to improve the customer's experience.The main goal of my current position is to make the department teams job easier by providing these services;</p>
       <ul>
-       <li>Providing <strong>API Support</strong> by creating and maintaining technical design documents of company's API's.</li>
-       <li>Providing <strong>API Integrations</strong> by managing day to day contacts and inquiries that are received from our API customers.</li>
+       <li>Providing <strong>API support</strong> by creating and maintaining technical design documents of company's API's.</li>
+       <li>Providing <strong>API sntegrations</strong> by managing day to day contacts and inquiries that are received from our API customers.</li>
        <li>Providing <strong>ELK</strong> support by aggregate logs from the companies systems and applications, analyzing these logs, and creating visualizations for the Development teams.</li>
-       <li>Providing <strong>SQL Scripts, JavaScript, and Python Automations</strong> to update skewed data between servers and databases.</li>
+       <li>Providing <strong>SQL scripts, JavaScript, and Python automations</strong> to update skewed data between servers and databases.</li>
        <li>As a <strong>JIRA administrator</strong> I am responsible for creating and organizing new projects on the JIRA platform supporting our internal operations team as a liasion for the product management team.</li>
       </ul>
     <br />

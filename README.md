@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 [linkedin-shield]: icons/linkedin.png
 [twitter-url]: https://twitter.com/donley_cg
 [twitter-shield]: icons/twitter.png
-[facebook-url]: https://www.facebook.com/dgustave
+[facebook-url]: https://www.fb.me/donley.cg
 [facebook-shield]: icons/facebook.png
 [zoom-url]: https://calendly.com/donleyc-gustave/meeting
 [zoom-shield]:  icons/zoom.png
@@ -138,11 +138,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Donley Gustave - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@gmail.com
+[![Twitter][twitter-shield]][twitter-url] - [@donley_cg]
 
-[![Zoom][zoom-shield]][zoom-url] 
+<!-- [![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!
-* Leave a detailed message and I will confirm. .
+* Leave a detailed message and I will confirm. . -->
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -151,8 +151,8 @@ Donley Gustave - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@g
 
 <!-- Footer -->
 <footer id="footer">
-<p class="copyright">Copyright &copy; 2020 Gustave LLC
-<br>Designed by <a rel="nofollow" href="https://www.facebook.com/dgustave">Donley Gustave</a></p>
+<p class="copyright">Copyright &copy; 2022 Gustave LLC
+<br>Designed by <a rel="nofollow" href="wwww.donleygustave.com">Donley Gustave</a></p>
 </footer>
 
-![Visitor Count](https://profile-counter.glitch.me/dgustave/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/dgustave/count.svg) -->

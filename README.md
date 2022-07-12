@@ -60,15 +60,22 @@ Here are some ideas to get you started:
     <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
   </a>
 
-  <h4 align="center">Hey! I'm Donley Gustave a</h4>
-   <h4 align="center"><strong>Business Analyst</strong> and Machine Learning Engineer</h4>
+  <h4 align="center">Hey! I'm Donley Gustave a and I am currently working as</h4>
+   <h4 align="center"><strong>Application Solutions Engineer</strong></h4>
    
 
   <p align="center">
-    <p>  I believe, by automating certain tasks, so that I can focus on solving any problem, through innovation, sound analytical methodologies, grokking algorithms, and intuitive machine learning principles. I just love having more time to work on something creative. I  personalize dashboards with Tableau and JavaScript to curate a story for you. In my free time I spend time reading and dabble in PSO2. 
+    <p>  I believe, by automating certain tasks, so that I can focus on solving any problem, through innovation, sound analytical methodologies, grokking algorithms, and intuitive machine learning principles. I just love having more time to work on something creative. I  personalize dashboards with Tableau and JavaScript to curate a story for you. 
     </p>
     <br />
-      <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Donley Gustave</strong>? You can edit and add more content  for your personal or corporate projects. Use this link here <strong>https://github.com/dgustave/README-Template/</strong></p>
+      <p>In my current role I wear many hats. As a <strong>Application Solutions Engineer</strong> with then work with various departments from development, datscience, network engineers, support and operations to ensure a plan is in motion to improve the customer's experience.The main goal of my current position is to make the department teams job easier by providing these services;</p>
+      <ul>
+       <li>Providing <strong>API Support</strong> by creating and maintaining technical design documents of company's API's.</li>
+       <li>Providing <strong>API Integrations</strong> by managing day to day contacts and inquiries that are received from our API customers.</li>
+       <li>Providing <strong>ELK</strong> support by aggregate logs from the companies systems and applications, analyzing these logs, and creating visualizations for the Development teams.</li>
+       <li>Providing <strong>SQL Scripts, JavaScript, and Python Automations</strong> to update skewed data between servers and databases.</li>
+       <li>As a <strong>JIRA administrator</strong> I am responsible for creating and organizing new projects on the JIRA platform supporting our internal operations team as a liasion for the product management team.</li>
+      </ul>
     <br />
   
   <!-- <p align="center">
@@ -97,13 +104,13 @@ Here are some ideas to get you started:
 
 
 <!-- [![Product Name Screen Shot][project-screenshot]](https://example.com) -->
-![work-shield](icons/work.png) I’m currently working on a investors dashboard. 
+![work-shield](icons/work.png) I’m currently working on upgrading security and logging om my automated investment bots. 
 
-![learn-shield](icons/learn.png) I’m currently learning about Machine Learning.
+![learn-shield](icons/learn.png) I’m currently learning about building a better Rest API Infrastructure.
 
-![lookingto-shield](icons/lookto.png) I’m looking to collaborate on Machine Learning projects and Dashboards. 
+![lookingto-shield](icons/lookto.png) I’m looking to collaborate on Investment Dashboards and Trading Bots. 
 
-![lookingfor-shield](icons/lookfor.png) I’m looking for help with sentiment analysis models. 
+![lookingfor-shield](icons/lookfor.png) I’m looking for help with Macro Economic models. 
 
 ![ask-shield](icons/ask.png) Ask me about ideas I have for future projects. 
 

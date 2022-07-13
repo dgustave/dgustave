@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 ### Developing With
 
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)     |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
+  | [![Top Langs](https://dgustave.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![Donley's github stats](https://dgustave.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)     |   [![Donleys's wakatime stats](https://dgustave.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
         
@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-[![Twitter][twitter-shield]][twitter-url] - [@donley_cg]
+[![Twitter][twitter-shield]][twitter-url] [@donley_cg](https://twitter.com/donley_cg)
 
 <!-- [![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!

@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [About Me](#about-me)
-  * [Developing With](#developing-with)
+* [Developing Stats](#developing-with)
 * [Articles](#articles)
 * [License](#license)
 * [Contact](#contact)
@@ -115,9 +115,9 @@ Here are some ideas to get you started:
 ![ask-shield](icons/ask.png) Ask me about ideas I have for future projects. 
 
 
-### Developing With
+## Developing Stats
 
-  | [![Top Langs](https://dgustave.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![Donley's github stats](https://dgustave.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)     |   [![Donleys's wakatime stats](https://dgustave.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
+  | [![Top Langs](https://dgustave.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/dgustave)         | [![Donley's github stats](https://dgustave.vercel.app/api?username=dgustave)](https://github.com/dgustave/dgustave)     |   [![Donleys's wakatime stats](https://dgustave.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/dgustave)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
         

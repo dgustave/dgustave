@@ -119,10 +119,10 @@ Here are some ideas to get you started:
 
 ## Developing Stats
 
-  | [![Top Langs](https://dgustave-dgustave.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/dgustave)         | [![Donley's github stats](https://dgustave-dgustave.vercel.app/api?username=dgustave)](https://github.com/dgustave/dgustave)     |   [![Donleys's wakatime stats](https://dgustave-dgustave.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/dgustave)
+  | [![Top Langs](https://dgustave-dgustave.vercel.app/api/top-langs/?username=dgustave&show_icons=true&theme=tokyonight)](https://github.com/dgustave/dgustave)         | [![Donley's github stats](https://dgustave-dgustave.vercel.app/api?username=dgustave&show_icons=true&theme=tokyonight)](https://github.com/dgustave/dgustave)     |   [![Donleys's wakatime stats](https://dgustave-dgustave.vercel.app/api/wakatime?username=dgustave&show_icons=true&theme=tokyonight)](https://github.com/dgustave/dgustave)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
-        
+      
 
 ## Articles
 

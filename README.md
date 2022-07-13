@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 ![ask-shield](icons/ask.png) Ask me about ideas I have for future projects. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Developing Stats

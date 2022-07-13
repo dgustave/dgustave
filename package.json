@@ -10,7 +10,7 @@
     "preview-theme": "node scripts/preview-theme",
     "generate-langs-json": "node scripts/generate-langs-json"
   },
-  "author": "Anurag Hazra",
+  "author": "Donley Gustave",
   "license": "MIT",
   "devDependencies": {
     "@actions/core": "^1.2.4",
